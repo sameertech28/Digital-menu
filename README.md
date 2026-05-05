@@ -33,7 +33,7 @@ Scan the QR code below to view the menu on your mobile device:
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here once the site is live!)*
+![Menu Screenshot](menu-screenshot.png)
 
 ---
 
