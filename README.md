@@ -38,4 +38,5 @@ Scan the QR code below to view the menu on your mobile device:
 ---
 
 ### 👨‍💻 Developer
-Developed with ❤️ for **Turkish Tea Point**.
+**Sameer Ansari**
+[LinkedIn Profile](https://www.linkedin.com/in/sameer-ansari-4577382a8)
