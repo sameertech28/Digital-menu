@@ -7,8 +7,8 @@ Scan the QR code below to view the menu on your mobile device:
 
 ![Menu QR Code](menu-qr.png)
 
-*Or visit the live link (if hosted on GitHub Pages):*
-[View Digital Menu](https://sameertech28.github.io/Digital-menu/)
+*Or visit the live link:*
+[View Digital Menu](https://stalwart-licorice-556ede.netlify.app/)
 
 ---
 
